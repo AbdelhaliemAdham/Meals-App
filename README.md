@@ -37,12 +37,14 @@ To clone and run this application, you'll need Git and Node.js (which comes with
    ```
 3. **Install dependencies**:
    ```bash
-
-   ```
-4. **Install dependencies**:
-   ```bash
    npm install
    ```
+
+4. **Run the development server**:
+   ```bash
+   npm run dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Screenshots
 
@@ -50,32 +52,24 @@ Here are some screenshots of the Food App to give you an idea of how the UI look
 
 ### Home Page
 
-![Home Page](screenshots/homepage.png)
+![image](https://github.com/user-attachments/assets/f3a8ce77-fe79-47cb-8e12-24c337378251)
 
 ### Share a Meal
 
-![Share a Meal](screenshots/share-meal.png)
+![image](https://github.com/user-attachments/assets/a1e42e98-ae25-49ef-915f-5299cb37871d)
+![image](https://github.com/user-attachments/assets/cd21c759-f17e-4622-a049-24fa3e9f0e47)
+
 
 ### Explore Meals
 
-![Explore Meals](screenshots/explore-meals.png)
+![image](https://github.com/user-attachments/assets/2db4ca02-37ef-41c1-a635-22251482d135)
+
 
 ### Meal Details
 
-![Meal Details](screenshots/meal-details.png)
+![image](https://github.com/user-attachments/assets/66ae40d6-0a9a-4ae0-95f5-1609b410aa9d)
 
-4. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
-   ```
 
-   ```
-5. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
-6. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## About the Developer
 
